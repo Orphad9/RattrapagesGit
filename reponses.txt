@@ -1,0 +1,14 @@
+a) 	
+	git pull permet de télécharger des modifications depuis un depot distant vers alors que 
+	git fetch permet d'obtenir l'historique de modifications du depot distant.
+
+b) 
+	git restore 
+
+c) Pour supprimer on utilise la commande 
+	git remove <nom-branche>
+d)git log
+
+CONTENUE DE MON CHOIX:
+je m'appelle .......
+
